@@ -4,7 +4,7 @@ Static bootstrap page for the Ringier Axel Springer Hungary 2019 PEOPLE AWARDS e
 
 ## From Event
 
-Colleagues can nominate themselves or others for the People Awards by category. This page is for nominating candidates and announcing categories.
+People Awards is a very important company event in our international media group Ringier Axel Springer Media, which operates in Eastern and Central Europe. This award ceremony for employees highlights the best individuals and teams, and we also celebrated it in this unusual year!
 
 ## Note
 
