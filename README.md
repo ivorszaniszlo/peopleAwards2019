@@ -6,7 +6,7 @@ People Awards is a very important company event in our international media group
 
 ## Screenhots
 
-![Calorie Calculator](./images/people_awards2019.JPG)
+![People Awards](./images/people_awards2019.JPG)
 
 ## Description
 
